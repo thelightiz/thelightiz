@@ -12,7 +12,7 @@
         <li>web e backend</li>
         <li>focado em java</li>
         <li>dê uma olhada em meu <a href="https://github.com/thelightiz">portfólio</a></li>
-        <li>calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">Calculadora</a></li>
+        <li>calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">calculadora</a></li>
       </ul>
     </td>
     <td style="vertical-align: middle;">
