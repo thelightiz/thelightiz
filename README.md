@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Lightiz 🚀</h1>
 
-<!--
-**thelightiz/thelightiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mim
+- 🔥 Aprendendo programação
+- ⚡ Java iniciante
+- 🎯 Foco em evoluir
+
+---
+
+## 🧠 Tecnologias
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
