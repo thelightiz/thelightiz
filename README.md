@@ -12,7 +12,7 @@
         <li>web e backend</li>
         <li>foco em java</li>
         <li>Dê uma olhada em meu <a href="https://github.com/thelightiz">portfólio</a></li>
-        <li>Calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">Java</a>"</li>
+        <li>Calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">Calculadora</a>"</li>
       </ul>
     </td>
     <td style="vertical-align: middle;">
@@ -23,12 +23,14 @@
 </div>
 <p align="center"><b>Linguagens</b></p>
 <p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg">
 </p>
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Json/json3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
 </p>
 <p align="center"><b>Sistema Operacional</b></p>
