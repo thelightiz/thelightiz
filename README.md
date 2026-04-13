@@ -11,12 +11,12 @@
         <li>Desenvolvedor focado</li>
         <li>web e backend</li>
         <li>focado em java</li>
-        <li>Dê uma olhada em meu <a href="https://github.com/thelightiz">portfólio</a></li>
-        <li>Calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">Calculadora</a>"</li>
+        <li>dê uma olhada em meu <a href="https://github.com/thelightiz">portfólio</a></li>
+        <li>calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">Calculadora</a></li>
       </ul>
     </td>
     <td style="vertical-align: middle;">
-     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlmYjB3MDR2bzY1OHVqYzNjc2Z3MXYxZHllNnJqY3k3NDdmbTAzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy.gif" width="100"/>
+     <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R4aWtkb242bDg0M2Myc2h4dmtlanliZXZhN3B6aXJmMmI4cmM2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8DTnuPhxv0m4w/giphy.gif width="100"/>
     </td>
   </tr>
 </table>
