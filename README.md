@@ -10,7 +10,7 @@
         <li>17 anos</li>
         <li>Desenvolvedor focado</li>
         <li>web e backend</li>
-        <li>foco em java</li>
+        <li>focado em java</li>
         <li>Dê uma olhada em meu <a href="https://github.com/thelightiz">portfólio</a></li>
         <li>Calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">Calculadora</a>"</li>
       </ul>
@@ -30,17 +30,17 @@
 </p>
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Json/json3.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask3.svg">
 </p>
 <p align="center"><b>Sistema Operacional</b></p>
 <p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg">
 </p>
 <p align="center"><b>Me encontre aqui:</b></p>
 <div align="center">
 
-[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/inotyu/inotyu)
-[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.com/users/1463217614129070103)
+[![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/thelightiz/thelightiz)
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg)](https://discord.com/channels/@me/1378465188201889873)
 
 </div>
