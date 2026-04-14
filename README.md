@@ -8,10 +8,10 @@
     <td style="vertical-align: middle; text-align: center;">
       <ul style="list-style-position: inside; padding: 0; margin: 0;">
         <li>17 anos</li>
-        <li>Desenvolvedor focado</li>
-        <li>web e backend</li>
-        <li>Nunca fui o mais inteligente, mais sempre o mais esforçado</li>
-        <li>Aprendendo Java</li>
+        <li>aprendendo programação</li>
+        <li>backend</li>
+        <li>errando, aprendendo e evoluindo</li>
+        <li>estudando Java</li>
         <li>dê uma olhada em meu <a href="https://github.com/thelightiz">portfólio</a></li>
         <li>calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">calculadora</a></li>
       </ul>
