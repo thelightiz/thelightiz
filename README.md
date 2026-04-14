@@ -10,7 +10,8 @@
         <li>17 anos</li>
         <li>Desenvolvedor focado</li>
         <li>web e backend</li>
-        <li>focado em java</li>
+        <li>Nunca fui o mais inteligente, mais sempre o mais esforçado</li>
+        <li>Aprendendo Java</li>
         <li>dê uma olhada em meu <a href="https://github.com/thelightiz">portfólio</a></li>
         <li>calculadora que desenvolvi em java: <a href="https://github.com/thelightiz/CalculadoraJava">calculadora</a></li>
       </ul>
